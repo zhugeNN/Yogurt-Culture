@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExcelXmlConfiguration>
+  <ExcelXmlConfigs>
+     <!-- 示例
+     <ExcelXmlConfig>
+      <ExcelPath>TestData.xlsx</ExcelPath><JsonPath>TestData.json</JsonPath>
+      <WorksheetName>Sheet1</WorksheetName><ClassName>TestData</ClassName>
+      </ExcelXmlConfig> 
+    -->
+    <ExcelXmlConfig>
+      <ExcelPath>UpgradeData.xlsx</ExcelPath><JsonPath>UpgradeData.json</JsonPath>
+      <WorksheetName>Sheet1</WorksheetName><ClassName>UpgradeData</ClassName>
+    </ExcelXmlConfig>
+  </ExcelXmlConfigs>
+</ExcelXmlConfiguration>
